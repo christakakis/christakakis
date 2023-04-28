@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Panagiotis</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<!--
-**christakakis/christakakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=christakakis&label=Profile%20views&color=0e75b6&style=flat" alt="christakakis" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently searching for **my thesis topic with my supervisor**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **about advanced topics of ML, DL and in depth the general the field of AI.**
+
+- 👯 I’m happy to collaborate with **anyone with the same interests**
+
+- 📫 How to reach me **panoschristakakis@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/christakakis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christakakis" height="30" width="40" /></a>
+</p>
