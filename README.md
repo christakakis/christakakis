@@ -2,11 +2,11 @@
 <h3 align="center">A computer guy pursuing an MSc in AI and Data Analysis and interested in everyday ML applications</h3>
 
 
-- 🔭 I’m currently searching for **my thesis topic with my supervisor**
+- 🔭 I’m currently in talks for **my thesis topic with my supervisor**
 
-- 🌱 I’m currently learning **about advanced topics of ML, DL and in depth the general the field of AI.**
+- 🌱 Currently learning **about advanced topics of ML, DL and in depth the general the field of AI.**
 
-- 👯 I’m happy to collaborate with **anyone with the same interests**
+- 👯 Happy to collaborate with **anyone with the same interests**
 
 - 📫 How to reach me **panoschristakakis@gmail.com**
 
