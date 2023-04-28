@@ -2,9 +2,9 @@
 <h3 align="center">A computer guy interested in everyday ML applications and pursuing an MSc</h3>
 
 
-- 🔭 I’m currently in talks for my thesis topic with my supervisor
+- 🌱 Currently learning everything about AI and Data Analysis 🤣
 
-- 🌱 Currently learning everything about AI 🤣
+- 🔭 Also in talks for my thesis topic with my supervisor
 
 - 👯 Happy and motivated to collaborate with anyone with the same interests
 
