@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Panagiotis</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=christakakis&label=Profile%20views&color=0e75b6&style=flat" alt="christakakis" /> </p>
-
 - 🔭 I’m currently searching for **my thesis topic with my supervisor**
 
 - 🌱 I’m currently learning **about advanced topics of ML, DL and in depth the general the field of AI.**
