@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Panagiotis</h1>
-<h3 align="center">A computer guy from Greece pursuing an MSc in AI and Data Analysis and interested in everyday ML applications</h3>
+<h4 align="center">A computer guy from Greece pursuing an MSc in AI and Data Analysis and interested in everyday ML applications</h4>
 
 
 - 🔭 I’m currently searching for **my thesis topic with my supervisor**
