@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently in talks for my thesis topic with my supervisor
 
-- 🌱 Currently learning everything for AI 🤣
+- 🌱 Currently learning everything about AI 🤣
 
 - 👯 Happy to collaborate with anyone with the same interests
 
