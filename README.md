@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently in talks for **my thesis topic with my supervisor.**
 
-- 🌱 Currently learning **about advanced topics of ML, DL and in depth the general the field of AI.**
+- 🌱 Currently learning **about advanced topics of ML, DL and in depth the general field of AI.**
 
 - 👯 Happy to collaborate with **anyone with the same interests.**
 
