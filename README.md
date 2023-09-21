@@ -2,7 +2,7 @@
 <h3 align="center">A computer guy interested in everyday ML applications and pursuing an MSc</h3>
 
 
-- 🧑‍💻 Working as Research Assistant at [The Centre for Research & Technology](https://www.certh.gr/)
+- 🧑‍💻 Working as Research Assistant at [CERTH - The Centre for Research & Technology](https://www.certh.gr/)
 - 🌱 Currently learning everything about AI 🤣
 - 🔭 Also writing my MSc Thesis with title "Post-Heuristic Cancer Segmentation Refinement over MRI Images and Deep Learning Models"
 - 👯 Happy and motivated to collaborate with anyone with the same interests
