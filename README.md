@@ -7,5 +7,5 @@
 - 🌱 Currently working with anything it has to do with AI, especcialy with Precision Agriculture and Medical Imaging
 - 🔭 Also check out my recent [MSc thesis publication](https://doi.org/10.3390/ai6090212) with title "Post-Heuristic Cancer Segmentation Refinement over MRI Images and Deep Learning Models"
 - 👯 Happy and motivated to collaborate with anyone with the same interests
-📫 Reach me: **panoschristakakis[at]gmail[dot]com** or <a href="https://linkedin.com/in/christakakis" target="blank"><img style="display:inline;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christakakis" height="25" width="25" /> </a>
+- 📫 Reach me: **panoschristakakis[at]gmail[dot]com** or [LinkedIn](https://linkedin.com/in/christakakis)
 - 📚 Check out my [Google Scholar](https://scholar.google.com/citations?user=F3gOMO4AAAAJ&hl=el) profile
