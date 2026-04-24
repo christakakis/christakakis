@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Panagiotis</h1>
 <h3 align="center">AI & Deep Learning Engineer | Computer Vision Enthusiast</h3>
 
-
+- 🪪 [Click Here](https://christakakis.github.io/pdf/Christakakis_CV.pdf) to see my CV
 - 🧑‍💻 Working as Research Assistant at [CERTH - The Centre for Research & Technology](https://www.certh.gr/)
 - 🎓 Holder of two MSc degrees in Artificial Intelligence & Data Analytics and Robotics & STEAM Technologies
 - 🌱 Currently working with anything it has to do with AI, especcialy with Precision Agriculture and Medical Imaging
